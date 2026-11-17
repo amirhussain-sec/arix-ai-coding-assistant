@@ -1,0 +1,6 @@
+{
+  "name": "Arix AI",
+  "description": "Arix AI — futuristic AI coding workspace with autonomous agent builder, code editor, multi-language runner, debugger, explainer, and persistent projects.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
